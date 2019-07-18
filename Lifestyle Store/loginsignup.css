@@ -1,0 +1,22 @@
+/*Login Page Cascading Style Sheet*/
+
+.p_class{
+    padding-top:40px;
+}
+
+.form_style{
+    margin:20px;
+    padding:100px;
+    border-style: rounded;
+    font-family:Roboto;
+}
+
+.p_class2{
+    font-size: 25px;
+    font-weight:bold;
+}
+
+.p_nav{
+    padding-top:13px;
+    font-weight:bold;
+}

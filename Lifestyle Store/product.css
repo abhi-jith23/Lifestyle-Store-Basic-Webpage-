@@ -1,0 +1,28 @@
+/*Product Page CSS*/
+
+.p_nav{
+    padding-top:13px;
+    font-family:Roboto;
+    font-color:white;
+    font-weight: bold;
+}
+
+.nav_bottom{
+    margin:0%;
+    padding:0%;
+}
+
+.jumbo_style{
+    background-color:#808080;
+    color:black;
+}
+
+.product-class{
+    font-family:Roboto;
+    
+}
+
+.product-class h4{
+    font-family:Roboto;
+    font-weight:bold;
+}

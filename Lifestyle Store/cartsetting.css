@@ -1,0 +1,21 @@
+/* Cart Page and Settings Page Cascading Style Sheets */
+
+.table_class{
+    margin-top:100px;
+    padding-top:50px;
+}
+
+.form-class{
+    margin-top:50px;
+    font-family:Roboto;
+}
+
+.titles_class{
+    background-color: white;
+}
+
+.p_nav{
+    padding-top:13px;
+    font-family:Roboto;
+    font-weight:bold;
+}

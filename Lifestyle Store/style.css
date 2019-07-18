@@ -1,0 +1,42 @@
+.bag_img{
+    background-image:url("img/intro-bg_1.jpg");
+    height:500px;
+    padding-top:120px;
+    color:#f8f8f8;
+    margin-bottom:50px;
+    background-size:cover;
+    object-fit:scale-down;
+}
+
+.content{
+    background-color: rgba(0,0,0,0.8);
+    max-width:660px;
+    padding-top:6%;
+    padding-bottom:6%;
+    overflow:hidden;
+    margin-bottom:12%;
+    
+}
+
+h4{
+    font-family:Roboto;
+    font-weight:bold;
+}
+
+p{
+    font-size:15px;
+    font-weight: bold;
+}
+
+.nav_bottom{
+    margin:0%;
+    padding:0%;
+}
+
+.p_nav{
+    padding-top:13px;
+}
+
+.font-class{
+    font-family:Roboto;
+}
